@@ -76,7 +76,7 @@ const Contact = () => {
           icon={Mail}
           title="Email"
           value="nitya.potti2896@gmail.com"
-          href="mailto:nitya.potti2896@gmail.com"
+          href="mailto:nitya.potti2896@gmail.com?subject=Contact%20from%20Portfolio"
           delay={0.1}
         />
         <PremiumContactCard 
@@ -90,7 +90,7 @@ const Contact = () => {
           icon={Linkedin}
           title="LinkedIn"
           value="linkedin.com/in/nitya-sai-pranathi-potti"
-          href="https://linkedin.com/in/nitya-sai-pranathi-potti"
+          href="https://www.linkedin.com/in/nitya-sai-pranathi-potti"
           delay={0.3}
         />
         <PremiumContactCard 
